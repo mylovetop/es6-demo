@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../lib/system/system.js"></script>
+    <script src="../lib/require.js"></script>
+    <script src="../es6/Test.js"></script>
+    <!--<script src="Point.js"></script>-->
+    <!--<script src="PointColor.js"></script>-->
+    <!--<script src="Point.es6"></script>-->
+    <script src="../es6/Test3.js"></script>
+    <script>
+        System.paths.babel = 'lib/babel-core/browser.js';
+        System.transpiler = 'babel';
+        System.config({
+            baseURL: '/es6-demo'
+        });
+    </script>
+</head>
+<body>
+
+<div id="div" style="width: 100px;height: 100px;">
+
+</div>
+<script>
+
+    System.import('es6/Point.es6').then(function(m){
+        console.log(new m.P().es6); // yay
+    });
+
+    System.import('es6/PointColor.es6').then(function(m){
+        console.log(new m.PointColor().toString()); // yay
+    });
+    document.querySelector('#div').innerText=(Test.prototype.toString());
+    document.querySelector('#div').innerHTML=(Test.num());
+
+    var div = document.querySelector('#div');
+    div.textContent = '33';
+    div.appendChild(document.createTextNode('pizza'));
+    div.appendChild(document.createElement('div')).textContent='spaghetti';
+    //    div.appendChild(document.createElement('img')).src='cookie.jpg';
+    console.log(Test.num());
+
+    console.log(Test33.prototype.num());
+    console.log(Test33.prototype.toString());
+</script>
+</body>
+</html>
