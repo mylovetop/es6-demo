@@ -9,12 +9,12 @@ Object.defineProperty(exports, '__esModule', {
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError('Cannot call a class as a function'); } }
 
-var P = function P() {
-    _classCallCheck(this, P);
+var Point = function Point() {
+    _classCallCheck(this, Point);
 
     this.es6 = 'yay';
 };
 
-exports.P = P;
+exports.Point = Point;
 
 //# sourceMappingURL=Point.js.map
