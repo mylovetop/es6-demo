@@ -2,42 +2,41 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/Test3.js" />
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/Point.js" />
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/t1.js" />
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/Test.js" />
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/j.js" />
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/lib/system.src.js" />
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/lib/system.js" />
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/require.js" />
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/PointColor.js" />
-        <item url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/Test2.js" />
+        <item url="file://$PROJECT_DIR$/es6/Test3.js" />
+        <item url="file://$PROJECT_DIR$/es6/Point.js" />
+        <item url="file://$PROJECT_DIR$/es6/t1.js" />
+        <item url="file://$PROJECT_DIR$/es6/Test.js" />
+        <item url="file://$PROJECT_DIR$/es6/p2.js" />
+        <item url="file://$PROJECT_DIR$/es6/PointColor.js" />
+        <item url="file://$PROJECT_DIR$/es6/Test2.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/es6/hj.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/es6/l.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/es6/u.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/es6/hj.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/es6/l.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/es6/u.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/demo/$FileNameWithoutAllExtension$.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/es6/$FileNameWithoutAllExtension$.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/demo/require.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/demo/$FileNameWithoutAllExtension$.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/es6/$FileNameWithoutAllExtension$.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/react-0.13.0/demo/require.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/lib/system.src.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/Test3.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/Point.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/Test.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/t1.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/j.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/lib/system.src.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/lib/system/system.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/lib/require.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/PointColor.js" />
-      <root url="file://$USER_HOME$/Desktop/AppleTest/es6-demo/es6/Test2.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/es6/hj.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/es6/l.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/es6/u.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/es6/hj.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/es6/l.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/es6/u.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/demo/$FileNameWithoutAllExtension$.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/es6/$FileNameWithoutAllExtension$.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/demo/require.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/demo/$FileNameWithoutAllExtension$.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/es6/$FileNameWithoutAllExtension$.js" />
+      <root url="file://$PROJECT_DIR$/../react-0.13.0/demo/require.js" />
+      <root url="file://$PROJECT_DIR$/lib/system.src.js" />
+      <root url="file://$PROJECT_DIR$/es6/t1.js" />
+      <root url="file://$PROJECT_DIR$/es6/j.js" />
+      <root url="file://$PROJECT_DIR$/lib/system.src.js" />
+      <root url="file://$PROJECT_DIR$/lib/system/system.js" />
+      <root url="file://$PROJECT_DIR$/es6/Test3.js" />
+      <root url="file://$PROJECT_DIR$/es6/Point.js" />
+      <root url="file://$PROJECT_DIR$/es6/Test.js" />
+      <root url="file://$PROJECT_DIR$/es6/t1.js" />
+      <root url="file://$PROJECT_DIR$/es6/p2.js" />
+      <root url="file://$PROJECT_DIR$/lib/require.js" />
+      <root url="file://$PROJECT_DIR$/es6/PointColor.js" />
+      <root url="file://$PROJECT_DIR$/es6/Test2.js" />
     </CLASSES>
     <SOURCES />
   </library>
